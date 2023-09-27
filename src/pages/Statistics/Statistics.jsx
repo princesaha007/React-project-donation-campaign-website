@@ -19,10 +19,22 @@ const Statistics = () => {
   ];
 
 
+  const colors = ["#EE4A3A", "#35D8B5"]; 
+  const options = {
+    pieSliceText: "percentage", 
+    colors: colors, 
+
+    pieSliceTextStyle: {
+        fontSize: 30,
+        fontWeight: "bold", 
+      }
+  };
+
+
 
   return (
     <div>
-      <Chart className="text-3xl" chartType="PieChart" data={data} width={"100%"} height={"650px"}   />
+      <Chart className="text-3xl" chartType="PieChart" data={data} width={"100%"} height={"650px"} options={options}  />
     </div>
   );
 };

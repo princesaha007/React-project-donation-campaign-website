@@ -1,0 +1,139 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/CWFSC8c/Health.png",
+      "category": "Health",
+      "title": "Clean Water for Children",
+      "description": "Provide access to clean water for children in need by supporting our clean water initiatives. Your contribution will go a long way in ensuring that children around the world have access to safe and clean drinking water. Join us in this mission to make a positive impact on the lives of the youngest members of our global community.",
+      "price": 200,
+      "card_background_color": "#B7E1F1",
+      "category_background_color": "#53C5EF",
+      "text_color": "#0B8DBD"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/1r1cyXD/Education.png",
+      "category": "Education",
+      "title": "Good Education",
+      "description": "Embark on a journey of lifelong learning with our online education courses. Whether you're looking to acquire new skills or deepen your knowledge in a specific field, our courses offer a wide range of subjects and expert instructors. Invest in yourself and your future with our quality educational resources.",
+      "price": 250,
+      "card_background_color": "#FEE0E9",
+      "category_background_color": "#F7B0C6",
+      "text_color": "#FC6767"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/zQTHF7t/Clothing.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Join us in making a difference in the lives of those less fortunate. Our Used Clothing Drive initiative aims to collect gently-used clothing and distribute it to individuals and families in need. Your donation of clothing can provide warmth and comfort to those facing challenging circumstances.",
+      "price": 300,
+      "card_background_color": "#D4FBB2",
+      "category_background_color": "#91EA79",
+      "text_color": "#35C20D"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/fMCqcb9/Food.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Help us in our mission to ensure that nutritious and quality food is accessible to everyone, regardless of their circumstances. With your support, we can make a meaningful impact in fighting hunger and promoting better nutrition in our communities. Join the cause for a healthier and more equitable food system.",
+      "price": 500,
+      "card_background_color": "#D5CBCB",
+      "category_background_color": "#B4A9A9",
+      "text_color": "#7A7070"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/zQTHF7t/Clothing.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Join us in making a difference in the lives of those less fortunate. Our Used Clothing Drive initiative aims to collect gently-used clothing and distribute it to individuals and families in need. Your donation of clothing can provide warmth and comfort to those facing challenging circumstances.",
+      "price": 300,
+      "card_background_color": "#D4FBB2",
+      "category_background_color": "#91EA79",
+      "text_color": "#35C20D"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/fMCqcb9/Food.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Help us in our mission to ensure that nutritious and quality food is accessible to everyone, regardless of their circumstances. With your support, we can make a meaningful impact in fighting hunger and promoting better nutrition in our communities. Join the cause for a healthier and more equitable food system.",
+      "price": 300,
+      "card_background_color": "#D5CBCB",
+      "category_background_color": "#B4A9A9",
+      "text_color": "#7A7070"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/1r1cyXD/Education.png",
+      "category": "Education",
+      "title": "Good Education",
+      "description": "Embark on a journey of lifelong learning with our online education courses. Whether you're looking to acquire new skills or deepen your knowledge in a specific field, our courses offer a wide range of subjects and expert instructors. Invest in yourself and your future with our quality educational resources.",
+      "price": 250,
+      "card_background_color": "#FEE0E9",
+      "category_background_color": "#F7B0C6",
+      "text_color": "#FC6767"
+    },
+
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/CWFSC8c/Health.png",
+      "category": "Health",
+      "title": "Clean Water for Children",
+      "description": "Provide access to clean water for children in need by supporting our clean water initiatives. Your contribution will go a long way in ensuring that children around the world have access to safe and clean drinking water. Join us in this mission to make a positive impact on the lives of the youngest members of our global community.",
+      "price": 200,
+      "card_background_color": "#B7E1F1",
+      "category_background_color": "#53C5EF",
+      "text_color": "#0B8DBD"
+    },
+        
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/1r1cyXD/Education.png",
+      "category": "Education",
+      "title": "Good Education",
+      "description": "Embark on a journey of lifelong learning with our online education courses. Whether you're looking to acquire new skills or deepen your knowledge in a specific field, our courses offer a wide range of subjects and expert instructors. Invest in yourself and your future with our quality educational resources.",
+      "price": 300,
+      "card_background_color": "#FEE0E9",
+      "category_background_color": "#F7B0C6",
+      "text_color": "#FC6767"
+    },
+
+    {
+    "id": 10,
+    "image": "https://i.ibb.co/CWFSC8c/Health.png",
+    "category": "Health",
+    "title": "Clean Water for Children",
+    "description": "Provide access to clean water for children in need by supporting our clean water initiatives. Your contribution will go a long way in ensuring that children around the world have access to safe and clean drinking water. Join us in this mission to make a positive impact on the lives of the youngest members of our global community.",
+    "price": 200,
+    "card_background_color": "#B7E1F1",
+    "category_background_color": "#53C5EF",
+    "text_color": "#0B8DBD"
+  },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/zQTHF7t/Clothing.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "description": "Join us in making a difference in the lives of those less fortunate. Our Used Clothing Drive initiative aims to collect gently-used clothing and distribute it to individuals and families in need. Your donation of clothing can provide warmth and comfort to those facing challenging circumstances.",
+      "price": 300,
+      "card_background_color": "#D4FBB2",
+      "category_background_color": "#91EA79",
+      "text_color": "#35C20D"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/fMCqcb9/Food.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "description": "Help us in our mission to ensure that nutritious and quality food is accessible to everyone, regardless of their circumstances. With your support, we can make a meaningful impact in fighting hunger and promoting better nutrition in our communities. Join the cause for a healthier and more equitable food system.",
+      "price": 500,
+      "card_background_color": "#D5CBCB",
+      "category_background_color": "#B4A9A9",
+      "text_color": "#7A7070"
+    }
+]
+ 
+  

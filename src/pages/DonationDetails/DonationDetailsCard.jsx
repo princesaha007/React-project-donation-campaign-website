@@ -31,7 +31,7 @@ const DonationDetailsCard = ({donation}) => {
         <div>
 <div className="relative">
   <img className="w-full mx-auto h-[80vh] mt-7" src={image} alt="" />
-  
+  <div className="absolute bottom-0 left-0 w-full h-[23%] bg-black opacity-50"></div>
 </div>
 
 

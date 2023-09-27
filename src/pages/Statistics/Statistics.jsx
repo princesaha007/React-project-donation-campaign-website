@@ -25,7 +25,7 @@ const Statistics = () => {
     colors: colors, 
 
     pieSliceTextStyle: {
-        fontSize: 30,
+        
         fontWeight: "bold", 
       }
   };
